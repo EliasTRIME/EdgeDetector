@@ -1,0 +1,4 @@
+EdgeDetector    KEYWORD1
+update          KEYWORD2
+rising          KEYWORD2
+falling         KEYWORD2
